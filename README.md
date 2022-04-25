@@ -5,6 +5,6 @@ This game was created using Python's Turtle module.
 
 Simple co-op game of Pong. Endless game.
 
-Player A: USE THE W AND S KEY TO MOVE UP AND DOWN
+Player A: Use "w" and "s" to move up and down
 
-PLAYER B: USE UP AND DOWN ARROWS TO MOVE UP AND DOWN
+PLAYER B: Use "Up" and "Down" arrows to move up and down
