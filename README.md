@@ -10,3 +10,5 @@ Player A: Use "w" and "s" to move up and down.
 PLAYER B: Use "Up" and "Down" arrows to move up and down.
 
 Simply download Pong.py and run in desired IDE or run in Command Prompt.
+
+Programmed by me.
